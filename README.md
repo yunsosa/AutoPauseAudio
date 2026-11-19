@@ -15,6 +15,11 @@ Tested with Discord Desktop 1.0.9268 on Windows 11 and Vencord 1.15.18 ([source 
 
 The plugin only handles MP3 and WAV attachments hosted on Discord’s attachment CDN. Discord updates may change the built-in player and require a plugin update.
 
+## Support
+
+If AutoPauseAudio helps you audition loops, you can [support the project on Ko-fi](https://ko-fi.com/yunyunwer).
+
+
 ## License
 
 [GPL-3.0-or-later](LICENSE). This is a community plugin for Vencord.
